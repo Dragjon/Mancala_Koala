@@ -1,0 +1,15 @@
+v0.1: Introducing tempo
+----------------------------------
+accept H1
+Total Games: 904
+Score Ratio: 359/70/475
+LLR (-2.944, 2.944): 2.993
+----------------------------------
+
+v0.2: Introducing new eval - More seeds on your side is better
+----------------------------------
+accept H1
+Total Games: 918
+Score Ratio: 358/87/473
+LLR (-2.944, 2.944): 2.966
+----------------------------------
